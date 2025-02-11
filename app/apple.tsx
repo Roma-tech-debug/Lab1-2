@@ -5,7 +5,7 @@ const Apple = () => {
   return (
     <View>
       <Text>Apple</Text>
-      {/* <Image source={require('../assets/apple.png')} /> */}
+      <Image source={require('../assets/apple.png')} />
     </View>
   );
 };
