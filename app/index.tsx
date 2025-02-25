@@ -14,6 +14,7 @@ const Index = () => {
         <Button title="apple" onPress={() => router.push("/apple")} />
         <Button title="orange" onPress={() => router.push("/orange")} />
         <Button title="Go to Lab 3" onPress={() => router.push("/lab_3")} />
+        <Button title="Go to Lab 4" onPress={() => router.push("/lab_4")} />
 
     </View>
   );
